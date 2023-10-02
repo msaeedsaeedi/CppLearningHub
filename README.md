@@ -19,7 +19,7 @@ Welcome to the **CppLearningHub**, your ultimate resource for mastering C++ prog
 # Questions by Skill Level
 
 ## Beginners
-<!-- #### Bit Manipulation -->
+1. #### [Bit Manipulation](./Beginners/Bitwise/Q1/)
 
 <!-- 1. [How to Swap numbers](./Beginners/Bitwise/Q1/) -->
 
